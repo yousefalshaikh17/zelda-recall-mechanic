@@ -27,6 +27,7 @@ Recall ability on a single ball with only vertical movements.
 ![Recall-Demo-Ball](https://github.com/user-attachments/assets/5a026234-b36b-4a90-9897-be2ade5a7e14)
 
 Recall ability on two varying object shapes falling down a slope.
+
 ![Recall-Demo-Slope](https://github.com/user-attachments/assets/6796a059-cc81-4a3b-a2b0-7dc41a95b618)
 
 ### Challenges & Learnings
